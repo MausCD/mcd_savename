@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 author 'MausCD'
 description 'This script saves the last PlayerName (from Fivem client or steam name)'
-version '1.0'
+version '1.0.1'
 
 shared_script '@es_extended/imports.lua'
 shared_script '@mcd_lib/import.lua'
